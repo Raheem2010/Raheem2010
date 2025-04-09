@@ -36,7 +36,7 @@
 ## 🚀 Journey Log
 
 - 🌱 2024: Started learning backend development at AltSchool Africa
-- 🌱 2025: started taking extensive Python course at programmingexpert.io
+- 🌱 2025: started taking extensive Python course at [programmingexpert.io]
 - 💡 Applied backend logic to automate spreadsheet tasks  
 - 👨‍💻 Built my first API using Flask  
 
