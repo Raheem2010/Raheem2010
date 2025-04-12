@@ -8,7 +8,7 @@
 - Microsoft Excel, Word, Google Sheets/Docs
 
 📚 Currently learning:
-- Python at AltSchool Africa
+- Python at AltSchool Africa 
 - To learn PostgreSQL, Docker, and building RESTful APIs
 - Best practices in backend development
 - Integrating Excel and code for data automation
@@ -35,8 +35,9 @@
 
 ## 🚀 Journey Log
 
+- 🌱 2024: Learnt full-stack basics at Tech4dev 
 - 🌱 2024: Started learning backend development at AltSchool Africa
-- 🌱 2025: started taking extensive Python course at [www.programmingexpert.io]
+- 🌱 2025: Started taking an extensive Python course at [www.programmingexpert.io]
 - 💡 Applied backend logic to automate spreadsheet tasks  
 - 👨‍💻 Built my first API using Flask  
 
