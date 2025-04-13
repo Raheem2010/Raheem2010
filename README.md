@@ -48,5 +48,5 @@
 ---
 
 📫 Let's connect:  
-[https://www.linkein.com/in/adeniyi-adeyemi-949528177] | [adeyemiadeniyi97@gmail.com] | [Portfolio Website (coming soon!)]
+[https://www.linkedin.com/in/adeniyi-adeyemi] | [adeyemiadeniyi97@gmail.com] | [Portfolio Website (coming soon!)]
 
