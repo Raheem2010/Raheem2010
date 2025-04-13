@@ -1,9 +1,10 @@
 # 👋 Hi, I'm Adeyemi Adeniyi Abdul-Raheem
 
-🎯 Aspiring Backend Software Developer with a background in Physiotherapy and a passion for automation, logic, and clean code.
+🎯 Aspiring Software Developer with a background in Physiotherapy and a passion for automation, logic, and clean code.
 
 🛠️ Tech Stack:
-- Python | Flask | Django | SQL
+- HTML | CSS | JavaScript | BootStrap 
+- Python | Flask | Django | SQL 
 - Git & GitHub | REST APIs | JSON
 - Microsoft Excel, Word, Google Sheets/Docs
 
@@ -20,7 +21,10 @@
 ---
 
 ## 🧠 Projects
-- No substantial project yet...many on the way
+- CatPhotoApp
+- CafeListMenu
+- NeyuxCSSWebsite
+- Percentage Calculator
 
 ---
 
