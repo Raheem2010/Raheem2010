@@ -55,5 +55,5 @@
 I'm always looking to grow and collaborate with others!  
 Feel free to connect with me:
 
-[https://www.linkedin.com/in/adeniyi-adeyemi] | [adeyemiadeniyi97@gmail.com] | [Portfolio Website (coming soon!)]
+[https://www.linkedin.com/in/adeniyi-adeyemi] | [adeyemiadeniyi97@gmail.com] | [Portfolio Website (https://Raheem2010.github.io/Raheem2010/)
 
