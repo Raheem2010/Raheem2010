@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Adeyemi Adeniyi Abdul-Raheem
 
-🎯 Aspiring Software Developer with a background in Physiotherapy and a passion for automation, logic, and clean code.
+🎯 Aspiring Software Engineer with a background in Physiotherapy and a passion for automation, logic, and clean code.
 
 🛠️ Tech Stack:
 - HTML | CSS | JavaScript | BootStrap 
@@ -9,8 +9,7 @@
 - Microsoft Excel, Word, Google Sheets/Docs
 
 📚 Currently learning:
-- Python at AltSchool Africa 
-- To learn PostgreSQL, Docker, and building RESTful APIs
+- Backend (Python) at AltSchool Africa 
 - Best practices in backend development
 - Integrating Excel and code for data automation
 
@@ -22,8 +21,13 @@
 
 ## 🧠 Projects
 - CatPhotoApp
-- CafeListMenu
-- NeyuxCSSWebsite
+- Cat Photo Gallery
+- Cafe List Menu
+- Nutrition Label
+- CSS Color Markers
+- Rothko Painting
+- Neyux Responsive CSS Website
+- Registration Form
 - Percentage Calculator
 
 ---
@@ -39,7 +43,7 @@
 
 ## 🚀 Journey Log
 
-- 🌱 2024: Learnt full-stack basics at Tech4dev 
+- 🌱 2024: Learnt full-stack basics at Tech4dev & Devslopes
 - 🌱 2024: Started learning backend development at AltSchool Africa
 - 🌱 2025: Started taking an extensive Python course at [www.programmingexpert.io]
 - 💡 Applied backend logic to automate spreadsheet tasks  
@@ -47,6 +51,9 @@
 
 ---
 
-📫 Let's connect:  
+📫 Let's connect: 
+I'm always looking to grow and collaborate with others!  
+Feel free to connect with me:
+
 [https://www.linkedin.com/in/adeniyi-adeyemi] | [adeyemiadeniyi97@gmail.com] | [Portfolio Website (coming soon!)]
 
