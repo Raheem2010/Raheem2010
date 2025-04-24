@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Adeyemi Adeniyi Abdul-Raheem
 
-🎯 Aspiring Software Engineer with a background in Physiotherapy and a passion for automation, logic, and clean code.
+🎯 Aspiring Software Engineer with a background in Physiotherapy and a passion for automation, logic, and clean code. Adept at Microsoft Office suites and Google Workspace.
 
 🛠️ Tech Stack:
 - HTML | CSS | JavaScript | BootStrap 
@@ -42,7 +42,7 @@
 ---
 
 ## 🚀 Journey Log
-
+- 🌱 2023 - 24: Certification in Microsoft Office Suites and Google Workspace at Coursera and Udemy 
 - 🌱 2024: Learnt full-stack basics at Tech4dev & Devslopes
 - 🌱 2024: Started learning backend development at AltSchool Africa
 - 🌱 2025: Started taking an extensive Python course at [www.programmingexpert.io]
