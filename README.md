@@ -4,7 +4,7 @@
 
 🛠️ Tech Stack:
 - HTML | CSS | JavaScript | BootStrap 
-- Python | Flask | Django | SQL 
+- Python | FastAPI | Django | SQL 
 - Git & GitHub | REST APIs | JSON
 - Microsoft Excel, Word, Google Sheets/Docs
 
