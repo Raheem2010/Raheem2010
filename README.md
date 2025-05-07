@@ -20,6 +20,7 @@
 ---
 
 ## 🧠 Projects
+- Random Number Guesser
 - CatPhotoApp
 - Cat Photo Gallery
 - Cafe List Menu
@@ -47,7 +48,7 @@
 - 🌱 2024: Started learning backend development at AltSchool Africa
 - 🌱 2025: Started taking an extensive Python course at [www.programmingexpert.io]
 - 💡 Applied backend logic to automate spreadsheet tasks  
-- 👨‍💻 Built my first API using Flask  
+- 👨‍💻 Built my first API using FastAPI
 
 ---
 
