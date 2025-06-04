@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Adeyemi Adeniyi Abdul-Raheem
 
-🎯 Aspiring Software Engineer with a background in Physiotherapy and a passion for automation, logic, and clean code. Adept at Microsoft Office suites and Google Workspace.
+🎯 Aspiring Software Engineer with a background in Physiotherapy and passion for automation, logic, and clean code. Adept at Microsoft Office suites and Google Workspace.
 
 🛠️ Tech Stack:
 - HTML | CSS | JavaScript | BootStrap 
-- Python | FastAPI | Django | SQL 
+- Python | Golang | FastAPI | SQL 
 - Git & GitHub | REST APIs | JSON
 - Microsoft Excel, Word, Google Sheets/Docs
 
