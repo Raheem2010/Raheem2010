@@ -11,7 +11,7 @@
 📚 Currently learning:
 - Backend (Python) at AltSchool Africa 
 - Best practices in backend development
-- Integrating Excel and code for data automation
+- Programming Expert at ProgrammingExpert.io
 
 📚 Currently building:
 - Portfolio projects to show my growth
