@@ -20,7 +20,10 @@
 ---
 
 ## 🧠 Projects
+- Event Management API System
+- AbstractGame
 - Random Number Guesser
+- WellaPath(ongoing)
 - CatPhotoApp
 - Cat Photo Gallery
 - Cafe List Menu
