@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Adeyemi Adeniyi Abdul-Raheem
 
-I amm a backend engineer passionate about AI, automation, and data systems that drive real-world impact across communities.
+I am a backend engineer passionate about AI, automation, and data systems that drive real-world impact across communities.
 
 🛠️ Tech Stack
 
