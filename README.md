@@ -1,40 +1,45 @@
 # 👋 Hi, I'm Adeyemi Adeniyi Abdul-Raheem
 
-🎯 Aspiring Software Engineer with a background in Physiotherapy and passion for automation, logic, and clean code. Adept at Microsoft Office suites and Google Workspace.
+I amm a backend engineer passionate about AI, automation, and data systems that drive real-world impact across communities.
 
-🛠️ Tech Stack:
-- HTML | CSS | JavaScript | BootStrap 
-- Python | Golang | FastAPI | SQL 
-- Git & GitHub | REST APIs | JSON
-- Microsoft Excel, Word, Google Sheets/Docs
+🛠️ Tech Stack
 
-📚 Currently learning:
+Languages & Frameworks:
+
+- HTML | CSS | JavaScript | Bootstrap
+
+- Python | Go | FastAPI | SQL
+
+Tools & Technologies:
+
+- Bash | Git & GitHub | REST APIs | JSON
+
+- Microsoft Excel, Word | Google Sheets & Docs
+
+📚 Learnt:
 - Backend (Python) at AltSchool Africa 
-- Best practices in backend development
+- Best practices in backend development in Python and GO
 - Programming Expert at ProgrammingExpert.io
 
 📚 Currently building:
-- Portfolio projects to show my growth
+- Wellapath
+- UrbanSphere
+- NASA Data Pathways To Halthy Cities
 
 
 ---
 
-## 🧠 Projects
-- Event Management API System
-- AbstractGame
-- Random Number Guesser
-- WellaPath(ongoing)
-- CatPhotoApp
-- Cat Photo Gallery
-- Cafe List Menu
-- Nutrition Label
-- CSS Color Markers
-- Rothko Painting
-- Neyux Responsive CSS Website
-- Registration Form
-- Percentage Calculator
+🧩 Featured Projects
+| Project                                  | Description                                                                                    |
+| ---------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| **WellaPath (Ongoing)**                  | AI-powered health platform connecting users to verified clinics and pharmacies across Nigeria. |
+| **Event Management API System**          | FastAPI-based system for managing events and speakers using SQLAlchemy ORM.                    |
+| **UrbanSphere**                          | Smart-city data app for sustainable urban planning.                                            |
+| **NASA Data Pathways to Healthy Cities** | NASA Space Apps Challenge project promoting data-driven urban wellness.                        |
+| **AbstractGame**                         | A fun logic-based game built in Python.                                                        |
+| **Neyux Responsive Website**             | CSS-based product gallery for my footwear brand.                                               |
+| **Miscellaneous Projects**               | CatPhotoApp, Nutrition Label, CSS Color Markers, Registration Form, and more.                  |
 
----
 
 ## 💼 Soft Skills & Tools
 
@@ -46,12 +51,18 @@
 ---
 
 ## 🚀 Journey Log
-- 🌱 2023 - 24: Certification in Microsoft Office Suites and Google Workspace at Coursera and Udemy 
-- 🌱 2024: Learnt full-stack basics at Tech4dev & Devslopes
-- 🌱 2024: Started learning backend development at AltSchool Africa
-- 🌱 2025: Started taking an extensive Python course at [www.programmingexpert.io]
-- 💡 Applied backend logic to automate spreadsheet tasks  
-- 👨‍💻 Built my first API using FastAPI
+| Year          | Milestone                                                                                  |
+| ------------- | ------------------------------------------------------------------------------------------ |
+| **2023–2024** | Earned certifications in **Microsoft Office Suites** and **Google Workspace** *(Tech4Dev)* |
+| **2024**      | Completed **Career Essentials in Generative AI** *(Microsoft & LinkedIn)*                  |
+| **2024**      | Completed **Internet History, Technology & Security** *(Coursera Certificate)*             |
+| **2024**      | Learnt **Full-Stack Basics** at *Tech4Dev* & *Devslopes*                                   |
+| **2024–2025** | Studied **Backend Engineering (Python Track)** at *AltSchool Africa*                       |
+| **2025**      | Began **ProgrammingExpert.io**’s advanced Python course                                    |
+| **2025**      | Completed **Backend Development Diploma** *(AltSchool Africa)*                             |
+| 💡            | Applied backend logic to automate spreadsheet workflows                                    |
+| 👨‍💻         | Built first **RESTful API** with *FastAPI* and *SQLAlchemy*                                |
+
 
 ---
 
