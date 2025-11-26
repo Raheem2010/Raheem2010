@@ -70,5 +70,5 @@ Tools & Technologies:
 I'm always looking to grow and collaborate with others!  
 Feel free to connect with me:
 
-https://www.linkedin.com/in/adeniyi-adeyemi-949528177 | [adeyemiadeniyi97@gmail.com] | [Portfolio Website [Coming Soon])
+https://www.linkedin.com/in/adeniyi-adeyemi-949528177 | [adeyemiadeniyi97@gmail.com] | [Portfolio Website [https://adeyemiadeniyi.cv/3ug)
 
