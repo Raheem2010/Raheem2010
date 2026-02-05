@@ -1,14 +1,22 @@
-# 👋 Hi, I'm Adeyemi Adeniyi Abdul-Raheem
+# 👋 Hi, I'm Adeniyi Abdul-Raheem ADEYEMI
 
-I am a software engineer passionate about AI, automation, and data systems that drive real-world impact across communities.
+I’m an aspiring backend engineer with a healthcare background, focused on building scalable, API-driven products that solve real-world problems.
 
-🛠️ Tech Stack
+I’ve built and contributed to multiple backend systems, including WellaPath (health access platform), UrbanSphere (smart-city planning tools), and TaskPilot AI (automation platform). I design and implement RESTful APIs, authentication flows, and data models using Python, FastAPI, and SQL, with a strong focus on clean architecture, validation, and scalability.
 
-Languages & Frameworks:
 
-- HTML | CSS | JavaScript | Bootstrap
+I collaborate with other engineers through Fortune Techies, gaining hands-on experience with team workflows, version control, and production-minded development.
 
-- Python | Go | FastAPI | SQL
+Top Technical Skills
+
+Python • FastAPI • RESTful API Design
+
+SQL • Data Modeling • JWT/OAuth Authentication
+
+Backend Architecture • Git/GitHub • API Documentation
+
+I’m currently open to remote backend internships and project-based roles, where I can contribute immediately and grow as an engineer.
+
 
 Tools & Technologies:
 
@@ -19,7 +27,8 @@ Tools & Technologies:
 📚 Learnt:
 - Backend (Python) at AltSchool Africa 
 - Best practices in backend development in Python and GO
-- Programming Expert at ProgrammingExpert.io
+- Programming with Python and Go at ProgrammingExpert.io
+- Currently learning DSA and System Design at AlgoExpert.io 
 
 📚 Currently building:
 - Wellapath
@@ -32,6 +41,7 @@ Tools & Technologies:
 🧩 Featured Projects
 | Project                                  | Description                                                                                    |
 | ---------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| **TaskPilot AI**                         | AI-powered task automation system
 | **WellaPath (Ongoing)**                  | AI-powered health platform connecting users to verified clinics and pharmacies across Nigeria. |
 | **Event Management API System**          | FastAPI-based system for managing events and speakers using SQLAlchemy ORM.                    |
 | **UrbanSphere**                          | Smart-city data app for sustainable urban planning.                                            |
@@ -42,9 +52,8 @@ Tools & Technologies:
 
 
 ## 💼 Soft Skills & Tools
-
-✅ Excel (functions, pivot tables, dashboards)  
-✅ Document creation & formatting (Word, Docs)  
+✅ Strong API Design
+✅ Good Debugging Skill
 ✅ Teamwork, Leadership, time management, and problem-solving  
 ✅ Strong communication (written + verbal)
 
@@ -59,9 +68,10 @@ Tools & Technologies:
 | **2024**      | Learnt **Full-Stack Basics** at *Tech4Dev* & *Devslopes*                                   |
 | **2024–2025** | Studied **Backend Engineering (Python Track)** at *AltSchool Africa*                       |
 | **2025**      | Began **ProgrammingExpert.io**’s advanced Python course                                    |
-| **2025**      | Completed **Backend Development Diploma** *(AltSchool Africa)*                             |
+| **2025**      | Completed and earned certification in **Backend Development Diploma** *(AltSchool Africa)*                             |
 | 💡            | Applied backend logic to automate spreadsheet workflows                                    |
-| 👨‍💻         | Built first **RESTful API** with *FastAPI* and *SQLAlchemy*                                |
+| 👨‍💻           | Built first **RESTful API** with *FastAPI* and *SQLAlchemy*                                |
+| **2026**      | Earned certification in advanced programing with **Python** & **Go** *(programmingexpert.io)* 
 
 
 ---
@@ -70,5 +80,5 @@ Tools & Technologies:
 I'm always looking to grow and collaborate with others!  
 Feel free to connect with me:
 
-https://www.linkedin.com/in/adeniyi-adeyemi-949528177 | [adeyemiadeniyi97@gmail.com] | [Portfolio Website [https://adeyemiadeniyi.cv/3ug)
+https://www.linkedin.com/in/adeniyi-raheem-adeyemi | [adeyemiadeniyi97@gmail.com] | [Portfolio Website [https://adeyemiadeniyi.cv/3ug)
 
